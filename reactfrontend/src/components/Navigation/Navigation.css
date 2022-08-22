@@ -1,0 +1,46 @@
+.navigationContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 50px;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+
+.menuItemsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.shopNowButton {
+  background-color: #0cac00;
+  color: white;
+  padding-block: 10px;
+  padding-inline: 15px;
+}
+
+.active {
+  color: #0cac00;
+}
+
+.imageLogo{
+    height: 20px;
+    width: 100px;
+}
+
+.homeButton {
+  margin-inline: 20px;
+}
+
+.aboutButton {
+  margin-inline: 20px;
+}
+.testimonialsButton {
+  margin-inline: 20px;
+}

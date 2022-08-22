@@ -1,0 +1,111 @@
+.mainSaladsContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 100px;
+}
+
+.saladHeadingContainer {
+  font-size: 40px;
+}
+
+.bestSaladsContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.leftSaladsContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 400px;
+  height: 400px;
+  margin-right: 20px;
+}
+
+.rightSaladsContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ededed;
+  width: 400px;
+  height: 400px;
+  margin-right: 20px;
+}
+
+.leftSaladsUpContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #0cac00;
+  color: white;
+  width: 400px;
+  height: 200px;
+  margin-bottom: 5px;
+}
+
+.leftSaladsDownContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  width: 400px;
+  height: 200px;
+  margin-top: 5px;
+}
+
+.leftSaladsDownLeftContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ededed;
+  width: 200px;
+  height: 200px;
+  margin-right: 5px;
+}
+
+.leftSaladsDownRightContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ededed;
+  width: 200px;
+  height: 200px;
+  margin-left: 5px;
+}
+
+.leftSaladImage1 {
+  width: 170px;
+  padding-bottom: 70px;
+}
+
+.leftSaladImage2 {
+  width: 220px;
+}
+
+.rightSaladImage {
+  width: 400px;
+}
+
+.saladsHeading {
+  font-size: 20px;
+}
+
+.saladsParagraph {
+  margin-top: 20px;
+  width: 300px;
+}
+
+.saladOrderNowButton {
+    margin-top: 60px;
+  background-color: #0cac00;
+  color: white;
+  padding-block: 10px;
+  padding-inline: 15px;
+  width: 75px;
+}

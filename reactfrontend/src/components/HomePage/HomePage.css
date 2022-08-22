@@ -1,0 +1,51 @@
+.homePageContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 40px;
+}
+
+
+.horizontalLine {
+  background-color: #ffc700;
+  width: 40%;
+  height: 3px;
+}
+.paragraphContainer {
+  max-width: 40%;
+}
+
+.headingContainer {
+  max-width: 30%;
+  text-align: center;
+  font-size: 20px;
+  color: #0cac00;
+}
+
+.imageMainContainer {
+  height: 300px;
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ededed;
+  margin-top: 50px;
+}
+
+.imageSubContainer {
+  height: 200px;
+  width: 60%;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonContainer {
+  background-color: #0cac00;
+  color: white;
+  padding-block: 10px;
+  padding-inline: 15px;
+  margin-top: 50px;
+}

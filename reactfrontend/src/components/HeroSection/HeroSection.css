@@ -1,0 +1,37 @@
+.heroSectionContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.leftContainer {
+  margin-inline: 60px;
+}
+
+.rightContainer {
+  margin-inline: 60px;
+}
+
+.imageMain {
+  width: 450px;
+  height: 560px;
+}
+
+.buttonMain {
+  background-color: #0cac00;
+  color: white;
+  padding-block: 10px;
+  padding-inline: 15px;
+  width: 75px;
+}
+
+.headingMain {
+  font-size: 30px;
+}
+
+.paragraphMain {
+  text-align: start;
+  width: 320px;
+}
